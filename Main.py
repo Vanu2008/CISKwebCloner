@@ -13,7 +13,8 @@ try:
     site_name = sys.argv[1]
     project_name = sys.argv[2]
 except IndexError:
-    print("Usage:\npython app.py www.example.com folder_name")
+    print("Made BY Vansh A Student Of Cisk:\nhttps://www.cisk.co.in/")
+    print("Usage:\npython3 Main.py www.example.com folder_name")
     sys.exit(1)
 
 project_path = "../" + project_name
