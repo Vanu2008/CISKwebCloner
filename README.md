@@ -6,3 +6,4 @@ STEPS
 # python3 -m pip install -r requirements.txt
 # sudo su
 # python3 Main.py
+# python3 Main.py http://exmaple.com foler
